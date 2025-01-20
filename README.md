@@ -44,3 +44,6 @@ Este projeto realiza o teste de um LED RGB e de um buzzer conectados ao Raspberr
 1. **Clone o Repositório**:
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
+
+## 🔗 **Link com a demonstração em vídeo**
+- [Videoapresentação](https://www.youtube.com/shorts/PPQQb8wRUJ4)
